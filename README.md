@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @JBE29
-- 👀 I’m interested in you baby.
+- 👋 Hi, I’m Jean Baptiste
+
 - 🌱 I’m currently learning every thing about web coding (HTML, CSS, Ruby on rails, and Javascript) 
+
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/jean-baptiste-emily/
 
 <!---
